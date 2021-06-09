@@ -10,7 +10,7 @@ namespace ConsoleAppTestRepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello littel lolol");
+            Console.WriteLine("hello big henry");
             Console.ReadLine();
         }
     }
