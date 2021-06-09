@@ -1,0 +1,7 @@
+C:\Entwicklung\Unity\TestRepo\ConsoleAppTestRepo\ConsoleAppTestRepo\bin\Debug\ConsoleAppTestRepo.exe.config
+C:\Entwicklung\Unity\TestRepo\ConsoleAppTestRepo\ConsoleAppTestRepo\bin\Debug\ConsoleAppTestRepo.exe
+C:\Entwicklung\Unity\TestRepo\ConsoleAppTestRepo\ConsoleAppTestRepo\bin\Debug\ConsoleAppTestRepo.pdb
+C:\Entwicklung\Unity\TestRepo\ConsoleAppTestRepo\ConsoleAppTestRepo\obj\Debug\ConsoleAppTestRepo.csprojAssemblyReference.cache
+C:\Entwicklung\Unity\TestRepo\ConsoleAppTestRepo\ConsoleAppTestRepo\obj\Debug\ConsoleAppTestRepo.csproj.CoreCompileInputs.cache
+C:\Entwicklung\Unity\TestRepo\ConsoleAppTestRepo\ConsoleAppTestRepo\obj\Debug\ConsoleAppTestRepo.exe
+C:\Entwicklung\Unity\TestRepo\ConsoleAppTestRepo\ConsoleAppTestRepo\obj\Debug\ConsoleAppTestRepo.pdb
